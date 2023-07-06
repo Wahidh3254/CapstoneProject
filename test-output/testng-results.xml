@@ -2,24 +2,24 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-07-06T16:45:10Z" name="Default suite" finished-at="2023-07-06T16:45:16Z" duration-ms="6493">
+  <suite started-at="2023-07-06T17:11:01Z" name="test" finished-at="2023-07-06T17:11:07Z" duration-ms="5410">
     <groups>
     </groups>
-    <test started-at="2023-07-06T16:45:10Z" name="Default test" finished-at="2023-07-06T16:45:16Z" duration-ms="6493">
+    <test started-at="2023-07-06T17:11:01Z" name="Test" finished-at="2023-07-06T17:11:07Z" duration-ms="5410">
       <class name="org.test.ContactPageTests">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:org.test.ContactPageTests@36060e]" started-at="2023-07-06T16:45:06Z" name="setUp" finished-at="2023-07-06T16:45:10Z" duration-ms="4202" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:org.test.ContactPageTests@36060e]" started-at="2023-07-06T17:10:58Z" name="setUp" finished-at="2023-07-06T17:11:01Z" duration-ms="3503" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyAutomationPandaContactPage()[pri:0, instance:org.test.ContactPageTests@36060e]" started-at="2023-07-06T16:45:10Z" name="verifyAutomationPandaContactPage" finished-at="2023-07-06T16:45:16Z" duration-ms="6461" status="PASS">
+        <test-method signature="verifyAutomationPandaContactPage()[pri:0, instance:org.test.ContactPageTests@36060e]" started-at="2023-07-06T17:11:01Z" name="verifyAutomationPandaContactPage" finished-at="2023-07-06T17:11:07Z" duration-ms="5394" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAutomationPandaContactPage -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.test.ContactPageTests@36060e]" started-at="2023-07-06T16:45:16Z" name="tearDown" finished-at="2023-07-06T16:45:17Z" duration-ms="281" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:org.test.ContactPageTests@36060e]" started-at="2023-07-06T17:11:07Z" name="tearDown" finished-at="2023-07-06T17:11:07Z" duration-ms="197" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- org.test.ContactPageTests -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- test -->
 </testng-results>
